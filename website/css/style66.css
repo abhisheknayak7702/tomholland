@@ -1,0 +1,34 @@
+*/body{
+    background-color: turquoise;
+}
+.img_holland{text-align: center;
+    width: 100%;float:left;
+    color:aqua;
+    background-color: blanchedalmond;
+
+
+}
+.header_combined{
+    width:100%
+    float:auto;
+    text-align:center;
+    color:#fff
+
+}
+.header{
+    float:left;
+    width: 80%;
+
+}
+.tom{width:100%;
+    float:none;
+    margin-top: auto;
+
+}
+.tom li{display: inline;
+    width: 100px;
+    text-align:center;
+    color:orange;
+    padding:oem 1em oem 1em;
+    
+}
